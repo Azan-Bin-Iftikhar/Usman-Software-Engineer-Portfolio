@@ -27,7 +27,7 @@ This project is configured to deploy from the `main` branch using GitHub Actions
 
 Important:
 
-- The Vite base path is set to `/my-portfolio/` in [vite.config.ts](vite.config.ts).
+- The Vite base path is set to `/Usman-Software-Engineer-Portfolio/` in [vite.config.ts](vite.config.ts).
 - If your GitHub repository name is different, update that base path to match the repo name.
 
 ## Contact Form (EmailJS)
